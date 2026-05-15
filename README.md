@@ -36,7 +36,7 @@ The proposed architectures include:
 ## Repository Structure
 
 ```text
-spice code/        RTL implementations
+
 HSPICE/            CNTFET simulation files
 Figures/           Figures used in the paper
 CNN_Application/   FFDNet integration
